@@ -3,7 +3,6 @@
 #include <arpa/inet.h> //close
 #include <arpa/inet.h>
 #include <errno.h>
-#include <gtk/gtk.h>
 #include <netinet/in.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -21,3 +20,5 @@
 #include <openssl/rand.h>
 
 #include "libmx.h"
+
+
