@@ -1,0 +1,102 @@
+./uchat_server: daemonize success
+Opened database successfully
+db defaults error: UNIQUE constraint failed: users.id
+Resources/server_files/anime lists created
+Resources/server_files/jokes lists created
+Waiting for incoming connections.
+New connection, socket fd is 5, ip is 127.0.0.1:63529
+Adding to list of sockets as 0
+Host disconnected, ip 127.0.0.1:63529
+bad uid, cant send messageNew connection, socket fd is 5, ip is 127.0.0.1:63589
+Adding to list of sockets as 0
+{
+	"p_type":	0,
+	"piece":	"{\n\t\"json_type\":\t0,\n\t\"login\":\t\"qqqqqq\",\n\t\"hash\":\t\"b54a69aa96ef940496e2b141ac027d56c5a4586544dfbb766fe55459160b097a\"\n}"
+}
+[34m{
+	"json_type":	2,
+	"uid":	2
+}[0m
+{
+	"p_type":	0,
+	"piece":	"{\n\t\"json_type\":\t3,\n\t\"login\":\t\"qqqqqq\",\n\t\"hash\":\t\"b54a69aa96ef940496e2b141ac027d56c5a4586544dfbb766fe55459160b097a\"\n}"
+}
+[34m{
+	"json_type":	5,
+	"login":	"qqqqqq",
+	"uid":	2,
+	"fname":	"",
+	"sname":	"",
+	"email":	"",
+	"status":	"",
+	"snot":	1,
+	"vnot":	1,
+	"enot":	1
+}[0m
+{
+	"p_type":	0,
+	"piece":	"{\n\t\"json_type\":\t15,\n\t\"uid\":\t2\n}"
+}
+[34m{
+	"json_type":	17,
+	"uid":	2,
+	"groups":	[{
+			"gid":	0,
+			"gname":	"Others"
+		}],
+	"contacts":	[]
+}[0m
+{
+	"p_type":	0,
+	"piece":	"{\n\t\"json_type\":\t18,\n\t\"uid\":\t2\n}"
+}
+[34m{
+	"json_type":	19,
+	"uid":	2,
+	"chats":	[{
+			"cid":	1,
+			"role":	1,
+			"ctype":	3,
+			"cname":	"UCHAT",
+			"users":	[{
+					"uid":	1,
+					"login":	"root"
+				}, {
+					"uid":	2,
+					"login":	"qqqqqq"
+				}]
+		}]
+}[0m
+{
+	"p_type":	0,
+	"piece":	"{\n\t\"json_type\":\t20,\n\t\"uid\":\t2,\n\t\"cid\":\t1\n}"
+}
+[34m{
+	"json_type":	21,
+	"uid":	2,
+	"cid":	1,
+	"messages":	[]
+}[0m
+{
+	"p_type":	0,
+	"piece":	"{\n\t\"json_type\":\t49,\n\t\"uid\":\t2,\n\t\"ctype\":\t2,\n\t\"cname\":\t\"qweqwe\"\n}"
+}
+[34m{
+	"json_type":	51,
+	"uid":	2,
+	"ctype":	2,
+	"cname":	"qweqwe",
+	"cid":	2,
+	"role":	2
+}[0m
+{
+	"p_type":	0,
+	"piece":	"{\n\t\"json_type\":\t20,\n\t\"uid\":\t2,\n\t\"cid\":\t2\n}"
+}
+[34m{
+	"json_type":	21,
+	"uid":	2,
+	"cid":	2,
+	"messages":	[]
+}[0m
+Host disconnected, ip 127.0.0.1:63589
